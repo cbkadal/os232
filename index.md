@@ -1,5 +1,5 @@
 # OS232
 
-|| [TARBALL](SandBox/cbkadal.tar.xz) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/cbkadal/os232/) ||
+|| [TARBALL](SandBox/cbkadal.tar.xz) || [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/cbkadal/os232/) ||
 
-#### REV03: Thu 10 Aug 2023 16:00
+#### REV04: Mon 04 Sep 2023 18:00
