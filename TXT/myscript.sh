@@ -82,18 +82,18 @@ esac
 pushd $RESDIR
 for II in W?? ; do
     [ -d $II ] || continue
-    TARFILE=my$II.tar.bz2
+    TARFILE=my$II.tar.xz
     TARFASC=$TARFILE.asc
     rm -vf $TARFILE $TARFASC
-    echo "tar cfj $TARFILE $II/"
-    tar cfj $TARFILE $II/
+    echo "tar cfJ $TARFILE $II/"
+    tar cfJ $TARFILE $II/
     echo "gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE"
     gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE
 done
 popd
 
 if [[ "$WEEK" != "W00" ]] && [[ "$WEEK" != "W01" ]] ; then
-    II="${RESDIR}my$WEEK.tar.bz2.asc"
+    II="${RESDIR}my$WEEK.tar.xz.asc"
     echo "Check and move $II..."
     [ -f $II ] && mv -vf $II .
 fi
