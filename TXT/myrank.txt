@@ -1,4 +1,8 @@
 # WEEKLY 3 of 10 RANKS
-ZCZC W02 GitHub21
-ZCZC W02 GitHub22
-ZCZC W02 GitHub23
+# Check https://os.vlsm.org/Log/
+ZCZC W03 GitHubAccount31
+ZCZC W03 GitHubAccount32
+ZCZC W03 GitHubAccount33
+ZCZC W02 GitHubAccount21
+ZCZC W02 GitHubAccount22
+ZCZC W02 GitHubAccount23
