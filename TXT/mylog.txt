@@ -1,4 +1,4 @@
-ZCZC W03 20 L00 General, etc.
+ZCZC W03 30 L00 General, etc.
 ZCZC W03 35 L01 SCELE/Discord related
 ZCZC W03 120 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 20 L03 GitHub related
