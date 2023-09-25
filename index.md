@@ -17,5 +17,5 @@ You are not "<b>CBKADAL</b>," so you should not disclose your record.
 I have spoken!
 
 <br><b>
-#### REV24: Sat 23 Sep 2023 18:00
+#### REV25: Mon 25 Sep 2023 14:00
 <br>
